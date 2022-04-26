@@ -6,7 +6,7 @@
 </div>
 
   ## Linguagens
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img alt="lfs-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="lfs-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
