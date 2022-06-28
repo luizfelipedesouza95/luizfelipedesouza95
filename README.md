@@ -2,7 +2,7 @@
   ### I'm an IT student and I'm starting a new journey as a Low code No Code developer at the company [Tech4Humans](https://www.linkedin.com/company/tech4humans-brasil/)
  
  
- <li>📙 Check out my <a href="https://github.com/luizfelipedesouza95/luizfelipedesouza95/blob/8be87b6845eaf4a7ca7103c4338f56b764d71303/Resume_LuizFelipe_English.pdf">resume</a>.</li>
+ <li>📙 Check out my <a href="https://luizfelipedesouza95.github.io/resume/">resume</a>.</li>
   
 <h2>🚀 Some Tools I Use</h2>
 <div align="center"><br>
