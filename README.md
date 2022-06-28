@@ -20,8 +20,3 @@
       <a href="https://instagram.com/luizfelipedesouza95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/luizfelipedesouza95/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-  
-<div align="center"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=luizfelipedesouza95&show_icons=true&count_private=true" alt="luizfelipedesouza95" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=luizfelipedesouza95.luizfelipedesouza95" alt="visitors"></p>
-  </div>
